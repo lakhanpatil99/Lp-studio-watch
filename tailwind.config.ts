@@ -12,7 +12,6 @@ export default {
         "2xl": "1400px",
       },
     },
-    extend: {
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
         serif: ['Playfair Display', 'serif'],
